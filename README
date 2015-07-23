@@ -1,0 +1,14 @@
+run ./compile to compile all
+run ./compile {filename} to compile only one file
+
+book_table.c		Generates a list of pages to print a book
+chartable.c			List of charset table
+lowercase.c			Renames files into lowercase
+mydiff.c			Simple diff without sort need
+parsesquid.c		Parce suid log
+charset.c			Try to guess charset
+recdecode.c			Decode .rec-files of tricolor satellite receiver
+swapfiles.c			Swap contents of 2 files
+file_histogram.c	Simple histogram of file sizes in current directory
+DrawOnScreen.c		Allows 2 draw on screen by mouse + change color ('r', 'g', 'b'); 'Esc' - stop
+
